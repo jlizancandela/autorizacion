@@ -12,6 +12,3 @@ El repositorio está dividido en dos partes principales:
 ## Instrucciones
 
 Para obtener instrucciones detalladas sobre cómo configurar y ejecutar cada parte del proyecto, por favor, consulta los archivos `README.md` dentro de sus respectivos directorios:
-
-- Instrucciones del Servidor
-- Instrucciones del Cliente
